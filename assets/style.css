@@ -1,0 +1,50 @@
+.instructions {
+	padding: 2%;
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+	color: white;
+}
+.randomNumber {
+	padding: 3%;
+	opacity: 0.6; 
+	color: white;
+	font-size: 200%; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+}
+
+.totalWL { 
+	padding: 2%; 
+    color: white;
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+ }
+
+ .totalScore { 
+	opacity: 0.6; 
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+	color: white;
+
+ }
+
+ .scoreDisplay {
+	padding: 3%; 
+	opacity: 0.6; 
+	color: white;
+	font-size: 200%;
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+ }
+
+ .wallpaper { 
+	background-image: url("https://imgix.bustle.com/2017/3/3/f54ca7bc-0f5c-4125-b0bd-632a545f32b1.jpg");
+	background-size: 100%;
+ }
+
+ .header { 
+     color: white;
+	font-family: 'Lobster', cursive, 'sans-serif'; 
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color: white;
+  }
